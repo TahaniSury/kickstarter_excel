@@ -17,3 +17,6 @@ In order to do the chart of the launch date we had to focuos of the (successful,
 To do this analysis we need to creat a new sheet and new table, The table containg the goal ranges , ranging from less than $1,000 up to greater than $50,000. we used the COUNTIFS function utilized to capture the outcome and goal data for the “plays” subcategory, to determine the number of successful, failed and canceled campaigns based off the corresponding funding goal. Based off this data, the total number of successful, failed and canceled projects could easily be calculated by using the SUM function. Upon calculating the percentage of successful, failed and canceled projects, a line chart was created to visualize the data.
 
 ![Outcomes_vs_Goals png](https://user-images.githubusercontent.com/98668175/153695546-cd52930c-385e-4cf7-adc6-63ef588cd677.png)
+
+### Challenges and Difficulties Encountered
+The main challenge I encountered is settle the Pivot Table fields in MS Excel, selecting the most appropriate filter, column, row and value fields is essential. I did couple of mistakes before getting to the required result. Prior to creating a Pivot Table, it is necessary to have a sense of which data needs to be summarized, along with how the data should be presented.
