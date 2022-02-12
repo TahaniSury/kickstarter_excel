@@ -20,3 +20,5 @@ To do this analysis we need to creat a new sheet and new table, The table contai
 
 ### Challenges and Difficulties Encountered
 The main challenge I encountered is settle the Pivot Table fields in MS Excel, selecting the most appropriate filter, column, row and value fields is essential. I did couple of mistakes before getting to the required result. Prior to creating a Pivot Table, it is necessary to have a sense of which data needs to be summarized, along with how the data should be presented.
+
+## Results
